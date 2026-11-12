@@ -11,15 +11,7 @@ Key Features
 - Missing value analysis by column
 - Duplicate record detection
 - Interactive data quality dashboard
-
-- Dynamic visualizations including: 
-- Histograms
-- Scatter Plots
-- Box Plots
-- Pie Charts
-- Data Quality Charts
-
-
+- Dynamic visualizations including: (Histograms, Scatter Plots, Box Plots, Pie Charts, Data Quality Charts)
 - Searchable and filterable data explorer table
 - Executive summary report generation
 - Modern dark-themed user interface
