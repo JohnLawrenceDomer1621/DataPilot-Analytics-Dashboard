@@ -1,6 +1,8 @@
 # DataPilot-Analytics-Dashboard
 DataPilot Analytics Dashboard is a web-based data quality and visualization platform designed to automate the initial stages of data analysis. The application enables users to upload CSV and Excel datasets, perform automated data quality assessments, and generate interactive visualizations for exploratory data analysis.
 
+The dashboard provides a streamlined workflow for identifying missing values, evaluating dataset health, detecting duplicate records, and exploring data through dynamic charts and searchable data tables. Built with HTML, CSS, JavaScript, Plotly.js, DataTables, PapaParse, and SheetJS, the platform demonstrates the practical application of data analytics and dashboard development techniques.
+
 
 Key Features
 
@@ -9,16 +11,21 @@ Key Features
 - Missing value analysis by column
 - Duplicate record detection
 - Interactive data quality dashboard
+
 - Dynamic visualizations including: 
 - Histograms
 - Scatter Plots
 - Box Plots
 - Pie Charts
 - Data Quality Charts
+
+
 - Searchable and filterable data explorer table
 - Executive summary report generation
 - Modern dark-themed user interface
 - Responsive dashboard design
+
+
 Business Value
 DataPilot helps analysts quickly understand data quality issues before performing advanced analysis, reporting, or machine learning. By automating exploratory data analysis and data quality monitoring, users can spend less time preparing data and more time generating business insights.
 Technologies Used
